@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 
+// Сравнение эффективности разных методов сортировки
+
 int chng = 0, comp = 0;
 
 void print(long long * a, int n) {
